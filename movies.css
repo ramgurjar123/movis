@@ -1,0 +1,7 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+
+#wrapper{ display: flex; flex-wrap: wrap;}
+
+#resuits{display: flex; flex-wrap: wrap; text-align: center;  align-items: center;}
+
+#resuits img {background-color: aqua; width: 150px; height: 150px;  margin: 15px;}
